@@ -26,16 +26,18 @@
 
 ---
 
-### 🧠 Frameworks
+### 🧠 Frameworks & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game%20Tools-1B1B1B?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
 ---
 
 ### 🎮 About Me
-> I am reversing games, making my own games,  
+> I love reversing games, building my own,  
 > and creating plugins for **Roblox Studio**.
 
 ---
@@ -45,3 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JustCodder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCodder&layout=compact&theme=dark&hide_border=true&border_radius=10" height="150"/>
 </p>
+
+---
