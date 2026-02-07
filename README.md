@@ -10,14 +10,6 @@
 ### 💴 Support Me  
 💠 **TON:** [`UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G`](https://tonviewer.com/UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G)
 
-### 🧩 My Path
-🌀 Began with **Luau**  
-⚙️ Then explored **C#**  
-🐍 Learned **Python**  
-⚡ Mastered **C++**
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
