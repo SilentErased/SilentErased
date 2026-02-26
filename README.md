@@ -1,22 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilentErased&theme=radical&no-frame=true&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SilentErased&theme=radical&no-frame=true&column=4" />
 </a>
 
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentErased&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SilentErased&show_icons=true&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentErased&theme=radical&hide_border=true" alt="streak" />
-</a>
-
-<br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentErased&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentErased&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 <br/>
@@ -35,7 +29,7 @@
 <br/>
 
 <a href="https://tonviewer.com/UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G">
-  <img src="https://img.shields.io/badge/Support_on_TON-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/TON-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <br/>
