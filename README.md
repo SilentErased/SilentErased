@@ -1,59 +1,69 @@
+<h1 align="center">✨ SilentErased / Scripter & UI </h1>
+
+###
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" width="100%"/>
-
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F0B429&center=true&vCenter=true&width=435&lines=hey%2C+i'm+SilentErased;Scripter+%2F+UI" alt="Typing SVG"/>
-  </h1>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=SilentErased&style=flat-square&color=F0B429&label=PROFILE+VIEWS"/>
-  </p>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
 </div>
 
----
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
----
-
-### stats
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentErased&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&icon_color=F0B429&title_color=F0B429" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentErased&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=6&title_color=F0B429" height="150"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
+###
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SilentErased&theme=github_dark&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=SilentErased&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilentErased&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=F0B429&fire=F0B429&currStreakLabel=F0B429" height="150"/>
-</div>
-
----
-
-### support
-
-<div align="center">
-
-if you like what i build, you can send some TON
-```
-UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G
-```
-
+  <p>if you like what i build, you can send some TON</p>
+  <code>UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G</code><br><br>
   <a href="https://tonviewer.com/UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G">
     <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white" alt="TON Wallet"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
