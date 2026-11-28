@@ -25,4 +25,4 @@ I'm SilentErased - a reverse engineer and tester
 
 If my tools helped you out, you can support me
 
-[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-support-F5B301?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/SilentErased)
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-support-F5B301?logo=donationalerts&logoColor=white)](https://dalink.to/silenterased)
